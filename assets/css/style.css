@@ -1,5 +1,12 @@
 html {
-    background-image: url(../images/simple_dashed_@2X.png);
+    background-image: url(../images/qbkls.png);
+    height: 100%;
+}
+
+h1, main {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 * {
@@ -17,12 +24,6 @@ p {
 
 h2 {
     color: #4aaaa5;
-}
-
-h1 {
-    color: #ffffff;
-    background-color: #4aaaa5;
-
 }
 
 a {
